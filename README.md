@@ -66,8 +66,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Firebase](https://firebase.google.com)**
 -   **[Android SDK](https://developer.android.com/docs)**
 
-> Veja o arquivo  [package.json](https://github.com/andrielson/blocok/blob/master/package.json)
-
 **Utilitários**
 -   IDE:  **[Android Studio](https://developer.android.com/studio)**
 -   Markdown:  **[StackEdit](https://stackedit.io/)**
